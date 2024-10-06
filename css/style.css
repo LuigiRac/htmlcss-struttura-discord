@@ -14,6 +14,7 @@
 body {
     font-family: 'whitney', 'helvetica neue', Arial, Helvetica, sans-serif;
     background-color: white;
+    color:black
 }
 
 .debug {
@@ -31,14 +32,44 @@ body {
 }
 
 .bg-grey {
-    background-color: #817f7f;
+    background-color: #f6f6f6;
 }
 
 .bg-blue {
     background-color: #255ee9;
 }
 
+.text-blue {
+    color: #255ee9;
+}
+.text-white {
+    color: white;
+}
+
+/* main */
+.image {
+    width: 60%;
+}
+
+.content {
+    width: 40%
+}
+
+
+/* flex */
+.flex {
+    display: flex;
+}
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.tec {
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
 footer {
     background-color: rgb(0, 0, 0);
-    color: white;
+    
 }
