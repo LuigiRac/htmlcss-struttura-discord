@@ -30,6 +30,13 @@ body {
     margin: 0 auto;
 }
 
+.bg-grey {
+    background-color: #817f7f;
+}
+
+.bg-blue {
+    background-color: #255ee9;
+}
 
 footer {
     background-color: rgb(0, 0, 0);
