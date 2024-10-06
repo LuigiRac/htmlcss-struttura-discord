@@ -1,0 +1,16 @@
+/* font google da utilizzare */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body {
+    font-family: 'whitney', 'helvetica neue', Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.debug {
+    border: 1px solid red;
+}
