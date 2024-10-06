@@ -1,5 +1,10 @@
 /* font google da utilizzare */
 
+/* colors 
+#f6f6f6 --> White
+
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -13,4 +18,9 @@ body {
 
 .debug {
     border: 1px solid red;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
